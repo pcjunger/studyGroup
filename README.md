@@ -1,11 +1,15 @@
-Mozilla Study Groups
+Grupo de Estudo Mozilla
 ============
 
-Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! From here, we'll set you up with everything you need to start your own study group.
+Bem vindo ao [Mozilla Science Lab](https://www.mozillascience.org/)'s Projeto grupo de estudo! A partir daqui, iremos disponibilizar tudo que você precisa para começar o seu
+próprio grupo de estudo.
 
-### Wait What's a 'Mozilla Study Group'?
+### Pera ai, o que é um 'Grupo de Estudo Mozilla'?
 
-Mozilla Study Groups are fun, informal meetups of your friends and colleagues from around your local institution or town to share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.
+Grupos de estudo Mozilla são divertidos, encontros informais com seus amigos e colegas ao redor de instituições locais e cidades para compatilhar habilidades,
+histórias e ideias sobre o uso de programação em pesquisa. O objetivo é criar um ambiente
+amigável e sem pressão onde as pessoas podem compartilhar seus trabalhos, pedir ajuda
+para resolver problemas de programação e aprender e trabalhar junto com seus parceiros.
 
 ## For Participants
 
