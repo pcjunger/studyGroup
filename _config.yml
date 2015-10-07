@@ -2,7 +2,7 @@
 #Follow these 2 steps to set up your site.
 
 #Step 1: give your study group a name and a short description:
-title: PPGE - UFRJ
+title: Graduate Program in Ecology - UFRJ
 description: "Grupo de estudo sobre R do Programa de Pós-Graduação em Ecologia - UFRJ."
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -17,8 +17,8 @@ description: "Grupo de estudo sobre R do Programa de Pós-Graduação em Ecologi
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://dl.dropboxusercontent.com/u/30524052/mozilla_science/header-cropped.jpg"
-headlineSmall: "Bem-vindo ao nosso grupo de estudos!"
-headlineMain: "Colabore conosco!"
+headlineSmall: "Welcome to our R study group!"
+headlineMain: "Knowledge should go freely"
 
 # Setup Google Calendar
 # Usage:
