@@ -1,28 +1,28 @@
-# Code of Conduct
+# Código de Conduta
 
-Study Group events are community events intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and in interactions online associated with Study Group.
+Eventos do Grupo de Estudo Study Group são eventos comunitários com o objetivo de promover interação, aprendizado e estabelecer colaborações. Nós valorizamos a participação de todo e qualquer membro da comunidade científica e queremos que todos os participantes tenham uma experiência agradável e preenchedora. Assim, esperamos que todos os participantes demonstrem respeito e cortesia uns com os outros ao longo do evento assim como em interações virtuais com os associados do Grupo de Estudo.
 
-To make clear what is expected, everyone taking part in Study Group events and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.
+Para deixar claro, espera-se que todos os envolvidos nos eventos do Grupo de Estudos e discussões — instrutores, ajudantes, organizadores, e aprendizes — sigam o seguinte Código de Conduta. Organizadores vão fazer aler este código ao longo do evento, mas você também pode contactar-nos de maneira privada; todas as comunicações serão tratadas como confidenciais.
 
-### The Short Version
+### A Versão Curta
 
- - Study Group is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
- - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any event.
- - Be kind to others. Do not insult or put down other attendees.
- - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
- - Attendees violating these rules may be asked to leave the event at the sole discretion of the event organizers without a refund of any charge that may have been levied.
+ - Espera-se que o Grupo de Estudos promova uma experiência de aprendizagem que seja livre de assédio para todos, sem importar gênero, orientação sexual, deficiência, aparência física, tamanho corporal, etinia, religião, ou escolha do editor de texto. Não toleramos nenhum tipo de assédio aos participantes.
+ - Toda a comunicação deve ser apropriada para um ambiente profisional, incluindo pessoas de diferentes origens e formações. Linguagem e imagens com conteúdo ou conotação sexual são inapropriadas em qualquer evento.
+ - Seja gentil com os outros. Não insulte ou rebaixe os participantes.
+ - Comporte-se de maneira profissional. Lembre-se que assédio e piadas com conotação sexista, racista, ou preconceituosas são inapropriadas.
+ - Os participantes que violarem essas regras serão convidados a se retirarem dos eventos de acordo com o julgamento dos organizadores do mesmo, sem ressarcimento de nenhuma taxa cobrada.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Obrigado por tornar este evento amigável e receptivo para todos.
 
-### The Longer Version
+### A Versão Longa
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Assédio inclui comentários verbais ofensivos relacionados a gênero,  orientação sexual, deficiência, aparência física, tamanho corporal, etinia, religião, imagens sexuais em espaços públicos, intimidação deliberada, persseguição, fotografia ou filmagem embaraçosa, interrupção constante de palestras ou outros eventos, contato físico inapropriado, e atenção sexual não bem-vinda.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participantes aos quais forem pedidos que interrompessem comportamento inapropriado devem fazê-lo imediatamente.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
+Seja cuidadoso com a escolha de palavras. Lembre-se que piadas sexistas, racistas, ou outro tipo de preconceito podem ser ofensivas para pessoas a sua volta.
 
-If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund of any fee that may have been levied.
+Se um participante comportar-se de maneira que viola este código conduta, os organizadores podem agir de qualquer forma que acharam apropriada, incluindo alertar ou expulsar o ofensor do evento sem direito o ressarcimento de qualquer taxa que tenha sido paga.
 
-Mirrored at: https://www.mozillascience.org/code-of-conduct
-License: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Espelhado em: https://www.mozillascience.org/code-of-conduct
+Licençae: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
