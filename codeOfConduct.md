@@ -1,6 +1,6 @@
 # Código de Conduta
 
-Eventos do Grupo de Estudo Study Group são eventos comunitários com o objetivo de promover interação, aprendizado e estabelecer colaborações. Nós valorizamos a participação de todo e qualquer membro da comunidade científica e queremos que todos os participantes tenham uma experiência agradável e preenchedora. Assim, esperamos que todos os participantes demonstrem respeito e cortesia uns com os outros ao longo do evento assim como em interações virtuais com os associados do Grupo de Estudo.
+Eventos do Grupo de Estudo são comunitários e tem por objetivo promover interação, aprendizado e estabelecer colaborações entre os participantes. Nós valorizamos a participação de todo e qualquer membro da comunidade científica e queremos que todos os participantes tenham uma experiência agradável e preenchedora. Assim, esperamos que todos os participantes demonstrem respeito e cortesia uns com os outros ao longo do evento, assim como em interações virtuais com os associados do Grupo de Estudo.
 
 Para deixar claro, espera-se que todos os envolvidos nos eventos do Grupo de Estudos e discussões — instrutores, ajudantes, organizadores, e aprendizes — sigam o seguinte Código de Conduta. Organizadores vão fazer aler este código ao longo do evento, mas você também pode contactar-nos de maneira privada; todas as comunicações serão tratadas como confidenciais.
 
