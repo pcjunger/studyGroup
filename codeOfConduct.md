@@ -2,7 +2,7 @@
 
 Eventos do Grupo de Estudo são comunitários e tem por objetivo promover interação, aprendizado e estabelecer colaborações entre os participantes. Nós valorizamos a participação de todo e qualquer membro da comunidade científica e queremos que todos os participantes tenham uma experiência agradável e preenchedora. Assim, esperamos que todos os participantes demonstrem respeito e cortesia uns com os outros ao longo do evento, assim como em interações virtuais com os associados do Grupo de Estudo.
 
-Para deixar claro, espera-se que todos os envolvidos nos eventos do Grupo de Estudos e discussões — instrutores, ajudantes, organizadores, e aprendizes — sigam o seguinte Código de Conduta. Organizadores vão fazer aler este código ao longo do evento, mas você também pode contactar-nos de maneira privada; todas as comunicações serão tratadas como confidenciais.
+Para deixar claro, espera-se que todos os envolvidos nos eventos do Grupo de Estudos e discussões — instrutores, ajudantes, organizadores, e aprendizes — sigam o seguinte Código de Conduta. Organizadores vão fazer valer este código ao longo do evento, mas você também pode contactar-nos de maneira privada; todas as comunicações serão tratadas como confidenciais.
 
 ### A Versão Curta
 
@@ -22,7 +22,7 @@ Participantes aos quais forem pedidos que interrompessem comportamento inapropri
 
 Seja cuidadoso com a escolha de palavras. Lembre-se que piadas sexistas, racistas, ou outro tipo de preconceito podem ser ofensivas para pessoas a sua volta.
 
-Se um participante comportar-se de maneira que viola este código conduta, os organizadores podem agir de qualquer forma que acharam apropriada, incluindo alertar ou expulsar o ofensor do evento sem direito o ressarcimento de qualquer taxa que tenha sido paga.
+Se um participante comportar-se de maneira que viola este código conduta, os organizadores podem agir de qualquer forma que acharem apropriada, incluindo alertar ou expulsar o ofensor do evento sem direito a ressarcimento de qualquer taxa que tenha sido paga.
 
 Espelhado em: https://www.mozillascience.org/code-of-conduct
-Licençae: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Licença: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
