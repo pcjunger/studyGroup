@@ -11,14 +11,14 @@ histórias e ideias sobre o uso de programação em pesquisa. O objetivo é cria
 amigável e sem pressão onde as pessoas podem compartilhar seus trabalhos, pedir ajuda
 para resolver problemas de programação e aprender e trabalhar junto com seus parceiros.
 
-## For Participants
+## Para Participantes
 
-Welcome to our Mozilla Study Group! A few things to do & know now that you're here:
+Bem-vindos ao Grupo de Estudos Mozilla! Algumas coisas que você precisa fazer & saber agora que vocês está aqui:
 
- - **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- - **Check out the issue tracker:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
- - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
- - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
+ - **Assista esse repo:** no topo direito desta página, existe um botão 'Watch'; clique nele para acompanhar esse repositório. Agora você receberá notificações de novas discussões do grupo por e-mail; se você não quer receber e-mails, mas gostaria de receber mensagens de alerta apenas no GitHub, mude as configurações em 'Settings' –> 'Notification Center' (Acesse configurações clicando na pequena roldana que encontra-se na barra lateral à direita).
+ - **Check out the issue tracker:** clique em 'issues' na barra lateral à direita; aqui é onde todas as conversas desse grupo de estudos acontencem. Utilize este espaço para fazer perguntas, requerer eventos, fazer sugestões, ou apenas dar um alô.
+ - **Leia o código de conduta:** esse Grupo de Estudos é para todos - nós cumprimos uma [série de regras](https://www.mozillascience.org/code-of-conduct/) que requer que todos seham tratados com respeito. Ajude-nos a construir um espaço onde sintam-se bemvindos, e todos teremos um tempo melhor juntos!
+ - **Seja adicionado ao nosso website:** Se você quer aparecer como colaborador no nosso website sob a seção 'Who we Are' (Quem nós Somos), dê uma olhada em `_data/members.yml`; envie-nos um pull request com a sua entrada, ou abra um novo 'issue' e nós faremos isso por você.
 
 ## For Organizers
 
